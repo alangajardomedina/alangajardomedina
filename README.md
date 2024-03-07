@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on DuocUC
+🌱 I’m currently learning Big Data and RPA
+😄 Pronouns: Profe!
+⚡ Fun fact: Rick and Morty Rules!!!
 <!--
 **alangajardomedina/alangajardomedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
