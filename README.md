@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Banner Alan Gajardo">
-</p>
 
 <h1 align="center">👋 ¡Hola! Soy Alan Gajardo</h1>
 <h3 align="center">💻 Docente y Coordinador del CITT - Sede Puente Alto</h3>
